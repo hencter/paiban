@@ -1,0 +1,22 @@
+node_modules/
+dist/
+release/
+tmp/
+.tmp-test/
+*.tsbuildinfo
+
+# WorkBuddy 工作环境（不属于产品源码）
+.workbuddy/
+.wbapp_*.genie
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+*.log
+*.local
+
+# e2e 过程截图（不入库）
+screenshots/e2e/
